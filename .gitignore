@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+.conda/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Runtime — never commit these
+logs/
+debug/
+*.log
+*.log.*
+
+# Credentials — NEVER commit
+.env
+.env.local
+.env.production
+app/config_local.py
+
+# Malformed folders from PowerShell glob (safe to ignore)
+{app*/
+
+# SQL Server
+*.mdf
+*.ldf
+*.bak
+
+# Test artifacts
+.pytest_cache/
+htmlcov/
+.coverage
+coverage.xml
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Examples (scratch files — not part of production code)
+examples/
