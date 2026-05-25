@@ -92,7 +92,7 @@ scheduleai-v6/
 
 ### Prerequisites
 
-- Python 3.9+ with Anaconda
+- Python 3.9+ 
 - SQL Server 2022 (Express or Developer edition is fine)
 - ODBC Driver 17 for SQL Server
 - Google OR-Tools (`pip install ortools`)
