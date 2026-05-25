@@ -175,11 +175,3 @@ pyodbc:    4.x
 uvicorn:   0.29+
 ```
 
----
-
-## Frontend Repository
-
-The Flutter Web frontend is in a separate repository:
-[ScheduleAI Frontend](https://github.com/PrasaiNarayan/ScheduleAI-frontend)
-
----
