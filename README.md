@@ -104,14 +104,13 @@ git clone https://github.com/PrasaiNarayan/ScheduleAI-backend.git
 cd ScheduleAI-backend
 
 # Create conda environment
-conda create -n adeka python=3.9
 pip install -r requirements.txt
 ```
 
 
 ### Configuration
 
-Create `app/config.py` (not committed — add your connection string):
+Create `.env` (not committed — add your connection string):
 
 ```python
 DB_CONNECTION_STRING = (
