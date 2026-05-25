@@ -13,8 +13,6 @@ FastAPI backend for **ScheduleAI**, a production scheduling system for food manu
 | Solver | Google OR-Tools CP-SAT |
 | Database | SQL Server 2022 |
 | ORM / DB Driver | SQLAlchemy + pyodbc |
-| Environment | Anaconda (env: `adeka`) |
-| Certifications | AWS DEA-C01, AWS MLA-C01 |
 
 ---
 
